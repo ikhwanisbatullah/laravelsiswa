@@ -1,0 +1,1 @@
+ <a href="/siswa/{{$siswa->id}}/delete" class="btn btn-danger btn-sm" onClick="return confirm('Yakin mau dihapus ?')">Delete</a>
